@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Hello, I'm Yeeun Kim!
+
+Good day!
+
+I am majoring in Global Business&Technology at HUFS. 
