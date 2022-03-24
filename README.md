@@ -42,7 +42,7 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 ⠀
 
 
-👇 If you're interested in me, please visit here.
+📫 If you're interested in me, please visit here.
 
 
 <a href="https://https://github.com/kye1115z/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
