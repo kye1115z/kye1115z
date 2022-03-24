@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 <h3> Hello, I'm Kim Ye-eun! </h3>
 
 
+⠀
+
 Good day!
 
 
 I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**. I love playing drums, hanging out with people I love, and watching dramas.
 
 
+⠀
 
+
+⠀
 
 
 👇 If you are interested in me, please visit here. 👇
@@ -36,6 +41,11 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 [![Gmail badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kye1115z@hufs.ac.kr)](mailto:kye1115z@hufs.ac.kr)
 [![Naver badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:kye1115z@naver.com)](mailto:kye1115z@naver.com)
 
+
+⠀
+
+
+⠀
 
 
 <h3>🌟This year's goal🌟</h3>
