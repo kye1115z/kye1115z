@@ -30,7 +30,7 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 
 <h3>🌟This year's goal</h3>
 
-> - [x] LikeLion 10th🦁
+> - [x] 'LIKE LION' 10th🦁
 > - [ ] Meeting a lot of new people
 > - [ ] Getting close to "GitHub"
 > - [ ] Doing my best to participate in the team project
