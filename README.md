@@ -51,7 +51,7 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 [![Naver badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:kye1115z@naver.com)](mailto:kye1115z@naver.com)
 
 ⠀
-
+---
 ⠀
 
 
