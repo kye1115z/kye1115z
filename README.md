@@ -24,13 +24,13 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 I love playing drums, hanging out with people I love, and watching dramas.
 
 
-올해의 목표
+🌟<h3>This year's goal</h3>🌟
 >- [x] Likelions 10th🦁
 >- [ ] 새로운 사람들 많이 만나기
 >- [ ] 'github'와 친해지기
 >- [ ] 팀 프로젝트에 최선을 다해 참여하기
 >- [ ] 프론트엔드 개발에 익숙해지기
 >- [ ] 한 달에 한 권 책 읽기
->>- [ ] 턱걸이 10개
+>- [ ] 턱걸이 10개
 
 
