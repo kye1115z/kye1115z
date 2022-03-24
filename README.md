@@ -28,8 +28,8 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 
 
 
-If you are interested in me, please visit here.
-
+👇 If you are interested in me, please visit here. 👇
+<img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
 
 
 
