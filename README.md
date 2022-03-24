@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 Good day!
 
 I am majoring in Global Business&Technology at HUFS. 
+
+
+
+https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats
