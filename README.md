@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 Good day!
 
 
-I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**.
-
-
-I love playing drums, hanging out with people I love, and watching dramas.
+I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**. I love playing drums, hanging out with people I love, and watching dramas.
 
 
 If you are interested in me, please visit here.
