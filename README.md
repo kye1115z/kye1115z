@@ -31,6 +31,7 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 👇 If you are interested in me, please visit here. 👇
 
 
+<a href="https://https://github.com/kye1115z/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/44._ye_.42/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 [![Gmail badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kye1115z@hufs.ac.kr)](mailto:kye1115z@hufs.ac.kr)
 [![Naver badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:kye1115z@naver.com)](mailto:kye1115z@naver.com)
