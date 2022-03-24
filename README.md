@@ -49,3 +49,5 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 > - [ ] 턱걸이 10개
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kye1115z&show_icons=true&theme=radical)
