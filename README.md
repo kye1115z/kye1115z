@@ -24,6 +24,7 @@ I love playing drums, hanging out with people I love, and watching dramas.
 
 
 <h3>🌟This year's goal🌟</h3>
+
 > - [x] Likelions 10th🦁
 > - [ ] 새로운 사람들 많이 만나기
 > - [ ] 'github'와 친해지기
