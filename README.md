@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ## Hello, I'm Yeeun Kim!
 
 Good day!
+I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**.
 
-I am majoring in Global Business&Technology at HUFS. 
+I love playing drums, hanging out with people I love, and watching dramas.
+
+올해의 목표
+1. 
 
 
-
- [![kye1115z's github stats](https://github-readme-stats.vercel.app/api?kye1115z=kye1115z)](https://github.com/kye1115z/github-readme-stats)
