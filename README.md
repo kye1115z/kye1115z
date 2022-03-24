@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h2>Hello, I'm Yeeun Kim!</h2>
 
+
 Good day!
 I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**.
 
