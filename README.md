@@ -54,4 +54,4 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 ⠀
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kye1115z&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kye1115z&show_icons=true&theme=radical) --->
