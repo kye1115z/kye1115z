@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h3> Dream High! </h3>
+<h3> Hello, I'm Kim Ye-eun! </h3>
 
 
-Hello, I'm Kim Ye-eun.
+Dream High!
 
 
 I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**. I love playing drums, hanging out with people I love, and watching dramas.
