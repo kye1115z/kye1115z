@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Hello, I'm Yeeun Kim!</h2>
+<h3> Hello, I'm Kim Ye-eun! </h3>
 
 
 Good day!
