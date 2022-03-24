@@ -22,4 +22,4 @@ I am majoring in Global Business&Technology at HUFS.
 
 
 
- [![kye1115z's github stats](https://github-readme-stats.vercel.app/api?kye1115z=kye1115z)](https://github.com/anuraghazra/github-readme-stats)
+ [![kye1115z's github stats](https://github-readme-stats.vercel.app/api?kye1115z=kye1115z)](https://github.com/kye1115z/github-readme-stats)
