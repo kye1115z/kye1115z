@@ -40,7 +40,7 @@ I am majoring in Global Business&Technology at HUFS. I am a passionate developer
 
 
 ⠀
-안낭
+
 
 📫 If you're interested in me, please visit here.
 
