@@ -25,19 +25,6 @@ Dream High!
 I am majoring in Global Business&Technology at HUFS. I am a passionate developer who is interested in **NLP** and **Front-end**. I love playing drums, hanging out with people I love, and watching dramas.
 
 
-⠀
-
-
-<h3>🌟This year's goal</h3>
-
-> - [x] 'LIKE LION' 10th🦁
-> - [ ] Meeting a lot of new people
-> - [ ] Getting close to "GitHub"
-> - [ ] Doing my best to participate in the team project
-> - [ ] Getting used to Front-end development
-> - [ ] Reading a book a month
-> - [ ] 10 pull-ups
-
 
 ⠀
 
